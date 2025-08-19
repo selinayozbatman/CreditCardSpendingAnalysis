@@ -9,7 +9,7 @@ The goal is to preprocess the data, visualize different breakdowns, and extract 
 
 ## Data Preparation
 - Handled missing values  
-- Cleaned Yearly Income - Person* (`$` removed → float)  
+- Cleaned Yearly Income - Person (`$` removed → float)  
 - Converted Time to datetime and extracted `Hour`  
 - Merged datasets on `User`  
 - Filtered out `"ONLINE"` merchant city  
